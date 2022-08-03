@@ -30,8 +30,10 @@
  # Competências / Skills
 - Unity
 - C#
-- HTML/CSS
 - .NET
+- SQL
+- HTML/CSS
+
 
  # Idiomas / Languages
 - Portuguese (Brasillian)
