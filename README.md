@@ -5,14 +5,15 @@
 - 🖥️ *Back-end developer*
 - 📝 Learning *Web Development*
 - 🐱 26 years
-- 👾 Studying Game Design in *UNIFACS Salvador*
+- 👾 Studying Game Design in *UNIFACS Salvador* <a href="https://www.unifacs.br/" target="_blank"><img align="center" alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
+  </a> 
 
 ### Olá! 🇧🇷
 
 - 🖥️ *Desenvolvedor Back-end*
 - 📝 Aprendendo *Desenvolvimento Web*
 - 🐱 26 anos
-- 👾 Estudando Design de Games pela universidade *UNIFACS Salvador*
+- 👾 Estudando Design de Games pela universidade *UNIFACS Salvador*  <a href="https://www.unifacs.br/" target="_blank"><img align="center" alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
 
 <div>
   <a href="https://github.com/FMuniz312">
@@ -29,11 +30,11 @@
 ![Visitors since 15 Jan 2022](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FMuniz312&repo=FMuniz312&countColor=%237B1E7A)
   
  # Competências / Skills
-- Unity <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-- C#  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-- .NET <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-- SQL <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-- HTML <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+- Unity <img align="center" alt="Muniz-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+- C#  <img align="center" alt="Muniz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+- .NET <img align="center" alt="Muniz-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+- SQL <img align="center" alt="Muniz-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+- HTML <img align="center" alt="Muniz-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
  
  
  # Idiomas / Languages
