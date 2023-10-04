@@ -1,49 +1,78 @@
- ## Filipe Borges Muniz
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 
-### Hello! 🇺🇸
+  <h2>Filipe Borges Muniz</h2>
 
-- 🖥️ *Back-end developer*
-- 📝 Learning *Web Development*
-- 🐱 26 years
-- 👾 Studying Game Design in *UNIFACS Salvador* <a href="https://www.unifacs.br/" target="_blank"><img align="center" alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
-  </a> 
+  <h3>Hello! 🇺🇸</h3>
+  <ul>
+    <li>🖥️ <em>Back-end developer</em></li>
+    <li>📝 Learning <em>Web Development</em></li>
+    <li>🐱 26 years</li>
+    <li>👾 Studying Game Design in <em>UNIFACS Salvador</em> 
+      <a href="https://www.unifacs.br/" target="_blank">
+        <img align="center" alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
+      </a>
+    </li>
+  </ul>
 
-### Olá! 🇧🇷
+  <h3>Olá! 🇧🇷</h3>
+  <ul>
+    <li>🖥️ <em>Desenvolvedor Back-end</em></li>
+    <li>📝 Aprendendo <em>Desenvolvimento Web</em></li>
+    <li>🐱 26 anos</li>
+    <li>👾 Estudando Design de Games pela universidade <em>UNIFACS Salvador</em>
+      <a href="https://www.unifacs.br/" target="_blank">
+        <img align="center" alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
+      </a>
+    </li>
+  </ul>
 
-- 🖥️ *Desenvolvedor Back-end*
-- 📝 Aprendendo *Desenvolvimento Web*
-- 🐱 26 anos
-- 👾 Estudando Design de Games pela universidade *UNIFACS Salvador*  <a href="https://www.unifacs.br/" target="_blank"><img align="center" alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
+  <div>
+    <a href="https://github.com/FMuniz312">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FMuniz312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMuniz312&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+  </div>
 
-<div>
-  <a href="https://github.com/FMuniz312">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FMuniz312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMuniz312&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
- <div>
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMuniz312&layout=compact&hide=html&theme=dark" alt="FMuniz312">-->
- </div>
+  <br/>
 
- <br/>
-  
-![Visitors since 15 Jan 2022](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FMuniz312&repo=FMuniz312&countColor=%237B1E7A)
-  
- # Competências / Skills
-- Unity <img align="center" alt="Muniz-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-- C#  <img align="center" alt="Muniz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-- .NET <img align="center" alt="Muniz-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-- SQL <img align="center" alt="Muniz-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-- HTML <img align="center" alt="Muniz-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
- 
- 
- # Idiomas / Languages
-- Portuguese (Brasillian)
-- Inglês (Bilíngue) / English (Bilingual)
-- Mandarim (Iniciante) / Mandarin (Beginner)
-  
- <hr>  
-<div>
-  <a href="https://www.https://www.linkedin.com/in/filipe-borges-muniz-97917520a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FMuniz312&repo=FMuniz312&countColor=%237B1E7A" alt="Visitors since 15 Jan 2022">
+
+  <h1>Competências / Skills</h1>
+  <ul>
+    <li>Unity 
+      <img align="center" alt="Muniz-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+    </li>
+    <li>C#
+      <img align="center" alt="Muniz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    </li>
+    <li>.NET 
+      <img align="center" alt="Muniz-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+    </li>
+    <li>SQL 
+      <img align="center" alt="Muniz-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    </li>
+    <li>HTML 
+      <img align="center" alt="Muniz-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    </li>
+  </ul>
+
+  <h1>Idiomas / Languages</h1>
+  <ul>
+    <li>Portuguese (Brasillian)</li>
+    <li>Inglês (Bilíngue) / English (Bilingual)</li>
+    <li>Mandarim (Iniciante) / Mandarin (Beginner)</li>
+  </ul>
+
+  <hr>  
+  <div>
+    <a href="https://www.linkedin.com/in/filipe-borges-muniz-97917520a/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  </div>
+
+</body>
+</html>
