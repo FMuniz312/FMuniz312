@@ -6,9 +6,8 @@
   <h2>Filipe Borges Muniz</h2>
   <h3>Hello! 🇺🇸</h3>
   <ul>
-    <li>🖥️ <em>Back-end developer</em></li>
-    <li>📝 Learning <em>Web Development</em></li>
-    <li>🐱 26 years</li>
+    <li>🖥️ <em>Full Stack developer</em></li> 
+    <li>🐱 27 years</li>
     <li>👾 Studying Game Design in <em>UNIFACS Salvador</em> 
       <a href="https://www.unifacs.br/" target="_blank">
         <img alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
@@ -17,9 +16,8 @@
   </ul>
   <h3>Olá! 🇧🇷</h3>
   <ul>
-    <li>🖥️ <em>Desenvolvedor Back-end</em></li>
-    <li>📝 Aprendendo <em>Desenvolvimento Web</em></li>
-    <li>🐱 26 anos</li>
+    <li>🖥️ <em>Desenvolvedor Full Stack</em></li> 
+    <li>🐱 27 anos</li>
     <li>👾 Estudando Design de Games pela universidade <em>UNIFACS Salvador</em>
       <a href="https://www.unifacs.br/" target="_blank">
         <img alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
