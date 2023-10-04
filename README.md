@@ -60,6 +60,13 @@
     <li>
         <ul class="flexbox-enginesskills">
             <h3>Web API and Others</h3>
+           <li>HTML/CSS/JS      
+                <div class="container-similarskill">
+                    <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+                    <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                    <img alt="Java Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+                </div>      
+            </li>
             <li>
                 <p>.NET <img alt="Dot Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
                 </p>
@@ -67,20 +74,13 @@
             <li> 
                 <p>SQL <img alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
                 </p>
-            </li>
-            <li>HTML/CSS/JS      
-                <div class="container-similarskill">
-                    <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-                    <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-                    <img alt="Java Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-                </div>      
-            </li>
+            </li>           
         </ul>            
     </li>    
   </ul>
   <h1>Idiomas / Languages</h1>
   <ul>
-    <li>Portuguese (Brasillian)</li>
+    <li>Portuguese (Brazillian)</li>
     <li>Inglês (Bilíngue) / English (Bilingual)</li>
     <li>Mandarim (Iniciante) / Mandarin (Beginner)</li>
   </ul>
