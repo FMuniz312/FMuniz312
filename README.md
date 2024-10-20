@@ -7,7 +7,7 @@
   <h3>Hello! 🇺🇸</h3>
   <ul>
     <li>🖥️ <em>Full Stack developer</em></li> 
-    <li>🐱 27 years</li>
+    <li>🐱 28 years</li>
     <li>👾 Studying Game Design in <em>UNIFACS Salvador</em> 
       <a href="https://www.unifacs.br/" target="_blank">
         <img alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
@@ -17,7 +17,7 @@
   <h3>Olá! 🇧🇷</h3>
   <ul>
     <li>🖥️ <em>Desenvolvedor Full Stack</em></li> 
-    <li>🐱 27 anos</li>
+    <li>🐱 28 anos</li>
     <li>👾 Estudando Design de Games pela universidade <em>UNIFACS Salvador</em>
       <a href="https://www.unifacs.br/" target="_blank">
         <img alt="Muniz-Unifacs" height="20" width="100" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg">
@@ -36,12 +36,12 @@
   <ul>
     <li>
         <ul class="flexbox-enginesskills">
-            <h3>Game Engines</h3>
+            <h3>Game Engines => 7+ Years of Game Development</h3>
             <li>
-                <p>Over 5 years of Unity  <img alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></p>
+                <p>5+ years of Unity  <img alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></p>
             </li>
             <li> 
-                <p>Over 1 year of Unreal Engine <img alt="Unreal Engine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"></p>
+                <p>2+ year of Unreal Engine <img alt="Unreal Engine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"></p>
             </li>               
         </ul>  
     </li>
